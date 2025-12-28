@@ -8,16 +8,16 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0F2027&width=500&lines=Hello%2C+I'm+Saif+ed-dine+Boussaid;Software+Developer;Execution+over+documentation"
-    alt="Typing SVG"
-  />
+  src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=500&lines=Hello%2C+I'm+Saif+ed-dine+Boussaid;Software+Developer;Execution+over+documentation"
+  alt="Typing SVG"
+/>
 </a>
 
 ---
 
 ## 👋 About Me
 
-I’m **Saif ed-dine Boussaid**, a software developer focused on **building systems that execute**.
+I’m **Saif ed-dine Boussaid**, a Mobile developer focused on **building systems that execute**.
 
 - I care about **clarity over complexity**
 - I prefer **structure over chaos**
