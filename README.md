@@ -17,16 +17,9 @@
 
 ## 👋 About Me
 
-I’m **Saif ed-dine Boussaid**, a Mobile developer focused on **building systems that execute**.
+Saif ed-dine Boussaid — Mobile developer specializing in Flutter, Java, and Git. I focus on building **clear, maintainable systems that ship reliably**.
 
-- I care about **clarity over complexity**
-- I prefer **structure over chaos**
-- I believe **constraints create better software**
-
-Currently exploring:
-- Mobile & web development
-- System design
-- Clean, opinionated architectures
+- Value simplicity over cleverness, structure over shortcuts, and I’m consistently working on **new projects** to refine architecture, tooling, and execution.
 
 ---
 
