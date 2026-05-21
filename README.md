@@ -1,7 +1,6 @@
 <!--
   ╔══════════════════════════════════════════════════════════╗
   ║         Saif Eddine Boussaid — GitHub Profile README     ║
-  ║         "Execution beats intention."                     ║
   ╚══════════════════════════════════════════════════════════╝
 -->
 
@@ -28,16 +27,12 @@
 
 ```ts
 const saif: Engineer = {
-  name:       "Saif Eddine Boussaid",
-  role:       "Computer Science Engineer (in progress @ Esprit Tunis)",
-  focus:      ["Mobile Dev", "Embedded Systems", "Full-Stack Web", "IoT"],
-  philosophy: "Simplicity over cleverness. Structure over shortcuts.",
-  status:     "🟢 Open to engineering internships",
-  funFact:    "I once built an IoT monitoring system for a pumping station 🚿⚙️"
+  name:  "Saif Eddine Boussaid",
+  role:  "CS Engineering @ Esprit Tunis",
+  focus: ["Mobile Dev", "Embedded Systems", "Full-Stack Web", "IoT"],
+  mantra: "Execution beats intention.",
 };
 ```
-
-> Curious and driven engineer-in-training. I believe great software is **built deliberately** — clean architecture, reliable execution, and shipped on time. Always learning, always building.
 
 ---
 
@@ -47,7 +42,7 @@ const saif: Engineer = {
   <tr>
     <td width="50%">
       <h3>🌊 IoT Pumping Station Monitor</h3>
-      <p>Remote monitoring system for a pumping station using ESP32, sensors, and GSM modules (SIM800/SIM900) for live data transmission. Built during my final year project at ETS Sfax.</p>
+      <p>Remote monitoring system using ESP32, sensors, and GSM modules (SIM800/SIM900) for live data transmission. Built during my final year project at ETS Sfax.</p>
       <p>
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
@@ -101,10 +96,11 @@ const saif: Engineer = {
 
 ### ⚙️ Embedded & Hardware
 [![Embedded](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
+
 `ESP32` · `ESP8266` · `SIM800/SIM900` · `Atmel Studio`
 
 ### 🔧 Tools & DevOps
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,figma&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,figma,docker&theme=dark)](https://skillicons.dev)
 
 ### 🧪 Testing & Methodology
 `Cypress` · `Scrum / Agile` · `SOAP` · `REST` · `Jira`
@@ -140,38 +136,6 @@ const saif: Engineer = {
 
 ---
 
-## 🎓 Education & Certifications
-
-| 🎓 Degree | 🏫 Institution | 📅 Period |
-|-----------|---------------|----------|
-| Computer Science Engineering | **Esprit Tunis** | Sep 2024 → Present |
-| B.Sc. Embedded & Mobile Systems | **ISET Sfax** | Sep 2021 → Jun 2024 |
-
-<div align="center">
-
-![EF SET](https://img.shields.io/badge/EF_SET-English_Certificate_(B2)-3B82F6?style=for-the-badge&logo=duolingo&logoColor=white)
-![Python](https://img.shields.io/badge/Python_Certificate-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![French](https://img.shields.io/badge/French-B1_Intermediate-002395?style=for-the-badge)
-![English](https://img.shields.io/badge/English-B2_Professional-1DA1F2?style=for-the-badge)
-
-</div>
-
----
-
-## 💬 Quote I Live By
-
-<div align="center">
-
-```
-"Execution beats intention."
-```
-
-*— Every great engineer who ever shipped something.*
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -199,7 +163,7 @@ const saif: Engineer = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 
 <!--
-  Thanks for stopping by. 
+  Thanks for stopping by.
   If you read this far, let's build something together.
   — Saif
 -->
