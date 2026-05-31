@@ -1,14 +1,8 @@
-<!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║         Saif Eddine Boussaid — GitHub Profile README     ║
-  ╚══════════════════════════════════════════════════════════╝
--->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saif%20Eddine%20Boussaid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineer%20%7C%20Builder%20%7C%20Embedded%20%2B%20Mobile%20Systems&descAlignY=54&descSize=16" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saif%20Eddine%20Boussaid&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Engineer%20%7C%20Builder%20%7C%20Embedded%20%2B%20Mobile%20%2B%20Web%20Systems&descAlignY=58&descSize=17" alt="header"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Saif+Eddine+Boussaid;Full-Stack+%26+Mobile+Developer;Embedded+Systems+Engineer;I+build+things+that+actually+ship+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Hey+%F0%9F%91%8B+I'm+Saif+Eddine+Boussaid;Full-Stack+%26+Mobile+Developer;Embedded+Systems+%26+IoT+Engineer;Angular+%7C+Flutter+%7C+C%23+%7C+ESP32;I+build+things+that+actually+ship+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,116 +21,91 @@
 
 ```ts
 const saif: Engineer = {
-  name:  "Saif Eddine Boussaid",
-  role:  "CS Engineering @ Esprit Tunis",
-  focus: ["Mobile Dev", "Embedded Systems", "Full-Stack Web", "IoT"],
-  mantra: "Execution beats intention.",
+  name:    "Saif Eddine Boussaid",
+  role:    "CS Engineering @ Esprit Tunis",
+  focus:   ["Mobile Dev", "Embedded Systems", "Full-Stack Web", "IoT", "Cloud"],
+  stack:   ["Angular", "Flutter", "C#", ".NET", "ESP32", "Firebase"],
+  traits:  ["Problem solver", "Pragmatic thinker", "Clean code advocate"],
+  mantra:  "Execution beats intention. Always.",
 };
 ```
 
----
-
-## 🚀 What I've Shipped
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌊 IoT Pumping Station Monitor</h3>
-      <p>Remote monitoring system using ESP32, sensors, and GSM modules (SIM800/SIM900) for live data transmission. Built during my final year project at ETS Sfax.</p>
-      <p>
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GSM-SIM800-4CAF50?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🧪 QA Automation — Sofrecom</h3>
-      <p>End-to-end functional & automated test execution on a web platform using Cypress, integrated with Jira and GitLab CI in an Agile workflow.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌐 Angular Web App UI</h3>
-      <p>Designed and built a production UI with Angular + TypeScript at Hormiga Service. Built reusable component libraries and integrated REST APIs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📡 Telecom Infrastructure</h3>
-      <p>Maintained PDH, SDH, and fiber optic infrastructure at Tunisie Télécom. Explored GSM architecture, subscriber networks, and digital transmission systems.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SDH-PDH-2196F3?style=flat-square"/>
-        <img src="https://img.shields.io/badge/GSM-Networks-673AB7?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Fiber_Optics-FF5722?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+> 💡 I thrive at the crossroads of **hardware and software** — from flashing firmware on microcontrollers to deploying production web apps. If it can be built, I'm building it.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,php,dart&theme=dark)](https://skillicons.dev)
+
+[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,cs,php,dart&theme=dark)](https://skillicons.dev)
 
 ### 🌐 Web & Mobile
+
 [![Web & Mobile](https://skillicons.dev/icons?i=angular,react,flutter,ionic,html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
-### 🗄️ Databases & Backend
-[![Backend](https://skillicons.dev/icons?i=mysql,firebase,nodejs&theme=dark)](https://skillicons.dev)
+### 🗄️ Backend & Databases
+
+[![Backend](https://skillicons.dev/icons?i=dotnet,nodejs,mysql,firebase,postgres&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Embedded & Hardware
+
 [![Embedded](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 
-`ESP32` · `ESP8266` · `SIM800/SIM900` · `Atmel Studio`
+`ESP32` · `ESP8266` · `SIM800/SIM900` · `Atmel Studio` · `UART/SPI/I2C`
 
 ### 🔧 Tools & DevOps
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,figma,docker&theme=dark)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,androidstudio,figma&theme=dark)](https://skillicons.dev)
 
 ### 🧪 Testing & Methodology
-`Cypress` · `Scrum / Agile` · `SOAP` · `REST` · `Jira`
+
+`Cypress` · `xUnit (.NET)` · `Scrum / Agile` · `REST` · `SOAP` · `Jira`
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Saif2841&show_icons=true&theme=github_dark&border_radius=12&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="390" src="https://streak-stats.demolab.com?user=Saif2841&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saif2841&show_icons=true&theme=github_dark&border_radius=12&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif2841&layout=compact&theme=github_dark&border_radius=12&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+
 </div>
 
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif2841&layout=donut&theme=github_dark&border_radius=12&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=Saif2841&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saif2841&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saif2841&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Leveling Up
 
 <div align="center">
 
-[![Learning](https://skillicons.dev/icons?i=aws,docker,postgres,kubernetes&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres,redis&theme=dark)](https://skillicons.dev)
 
-> *Expanding into cloud infrastructure, containerization, and scalable database systems.*
+</div>
 
+> ☁️ Expanding into **cloud-native architecture**, **containerization**, and **scalable distributed systems** — because great apps deserve great infrastructure.
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saif2841&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Build Something Together
 
 <div align="center">
 
@@ -160,10 +129,10 @@ const saif: Engineer = {
   <img src="https://komarev.com/ghpvc/?username=Saif2841&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" alt="footer"/>
 
 <!--
-  Thanks for stopping by.
-  If you read this far, let's build something together.
+  Thanks for reading.
+  If you made it this far — let's ship something remarkable.
   — Saif
 -->
