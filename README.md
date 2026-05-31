@@ -51,17 +51,6 @@
 
 <br/>
 <hr/>
-<br/>
-
-### ⚡ Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed to a new project repository
-2. ⭐ Starred some cool open-source tools
-3. 🔧 Working on embedded IoT experiments
-<!--RECENT_ACTIVITY:end-->
-
-> _This section can update automatically via [GitHub Actions](https://github.com/marketplace/actions/recent-activity)._
 
 <br/>
 <hr/>
