@@ -10,7 +10,7 @@
 
 <p align="center">
   Hey, I'm <b>Saif Eddine</b> — <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br/>
-  Some folks know me as <b>Saif2841</b>.<br/>
+  Some folks know me as <b>SIFO</b>.<br/>
   CS Engineering student by day, builder by night.<br/>
   I work across the full stack — from microcontrollers to mobile apps to the web.<br/>
   Take a look around — you might find something that sparks your interest:<br/><br/>
